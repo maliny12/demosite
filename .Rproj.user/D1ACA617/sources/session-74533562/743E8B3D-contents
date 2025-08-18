@@ -1,0 +1,14 @@
+---
+title: "Test Blog"
+author: "Lorem Ipsum"
+date: "2025-08-18"
+image: "thumbnail.jpg"
+---
+
+
+```{r}
+print("Hello World")
+```
+
+
+
